@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version     = '1.1.1'
   s.summary     = %q{Measure image size using pure Ruby}
   s.description = %q{Measure following file dimensions: bmp, gif, jpeg, pbm, pcx, pgm, png, ppm, psd, swf, tiff, xbm, xpm}
-  s.homepage    = "http://github.com/toy/#{s.name}"
+  s.homepage    = "http://github.com/gzohari/#{s.name}"
   s.authors     = ['Keisuke Minami', 'Ivan Kuchin']
   s.license     = 'MIT'
 
